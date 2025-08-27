@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasörleri
+venv/
+panorama_env/
+env/
+.venv/
+
+# Sanal ortam ayar dosyası
+pyvenv.cfg
